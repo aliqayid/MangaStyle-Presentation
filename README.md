@@ -1,6 +1,13 @@
 # MangaStyle Presentation
 
 This is a creative PowerPoint project that simulates a manga (Japanese comic) reading experience. The slides are designed like pages of a manga book, combining visuals and dialogue to tell a story.
+![Manga Cover](images/Book-One-Piece.png)
+
+## 📂 Download
+
+You can download and view the PowerPoint file here:
+
+📥 [Download Manga Presentation (PPTX)](Book-One-Piece.pptx)
 
 ## Features
 - Manga-style storytelling inside PowerPoint slides.
